@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @j-musweu
-- 👀 I’m interested in entering the Data Science field
+- 👀 I’m interested in entering the Data Science field and currently a student for a few courses.
 - 🌱 I’m currently learning R programming and Python.
-- 💞️ I’m looking to collaborate shadow some projects on Github to further develop my knoweledge in the field before i work on projects.
+- 💞️ I’m looking to job-shadow on some projects through Github to further develop my knoweledge in the field before I work on projects.
 - 📫 I am available through my email address at jmmusweu@gmail.com.
 
 <!---
