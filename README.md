@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @j-musweu
-- 👀 I’m interested in entering the Data Science field and currently a student for a few courses.
-- 🌱 I’m currently learning R programming and Python.
-- 💞️ I’m looking to job-shadow on some projects through Github to further develop my knoweledge in the field before I work on projects.
-- 📫 I am available through my email address at jmmusweu@gmail.com.
+👋 Welcome to my GitHub profile! I'm @j-musweu, an aspiring Data Scientist with a Masters of Science in Business Analytics.
+
+My technical skills include MySQL, R programming and Python to build a strong foundation in data analysis and machine learning.
+I'm eager to gain practical experience in the Data Science field and actively seeking opportunities to contribute to meaningful projects.
+
+Feel free to reach out to me at jmmusweu@gmail.com for any collaborations or inquiries.
 
 <!---
 j-musweu/j-musweu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
